@@ -1,6 +1,11 @@
 Free pricing for AddOns
 ==========================
 
+This project has been archived and should not be used anymore.
+==============================================================
+The pretix core does now offer the functionality of this plugin natively.
+=========================================================================
+
 This is a plugin for `pretix`_. 
 
 Development setup
